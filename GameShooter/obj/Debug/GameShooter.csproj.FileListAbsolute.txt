@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\bin\Debug\GameShooter.exe.config
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\bin\Debug\GameShooter.exe
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\bin\Debug\GameShooter.pdb
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\obj\Debug\GameShooter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\obj\Debug\GameShooter.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\obj\Debug\GameShooter.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\obj\Debug\GameShooter.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\obj\Debug\GameShooter.exe
+c:\users\user\documents\visual studio 2013\Projects\GameShooter\GameShooter\obj\Debug\GameShooter.pdb
